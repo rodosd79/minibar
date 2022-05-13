@@ -6,3 +6,22 @@ a img{
     width: 70%;
     margin: 0  auto;
 }
+
+@font-face {
+        font-family: 'siffon' ;
+        src: url('../fonts/SIFFON_PRO.otf') format('opentype');
+        /*
+          Tipos de format90
+          -opentype (otf)
+          -truetype ( ttf)
+          -embedded-opentype
+          -svg
+          -
+          */
+    
+}
+#tit{
+    font-family: 'siffon';
+    font-size: 20px;
+    font-weight: bolder;
+}
